@@ -1,6 +1,9 @@
 
 import unittest
 
+def adding_more(s):
+	return "Hello World!"
+
 def subtract_one(input_integer):
 	return input_integer - 1
 
